@@ -1,5 +1,5 @@
 hello git
 thêm dòng này
 đây là nội dung được thêm vào respo
-máy client1 thêm dòng này
+máy client1 thêm vào dòng này
 
